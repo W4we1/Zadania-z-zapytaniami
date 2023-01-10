@@ -1,0 +1,7 @@
+1. 
+
+SELECT * FROM orders LIMIT 10 OFFSET 185;
+
+2.
+
+SELECT * FROM orders LIMIT 10 OFFSET 10;
